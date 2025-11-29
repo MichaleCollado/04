@@ -27,7 +27,8 @@ El objetivo es demostrar dominio en:
 
 
 🗂 Información Tablas
-Ventas table:
+
+Ventas:
 - Columna Tipo Tamaño PermiteNulos
 - id_venta	smallint	2	0
 - id_cliente	smallint	2	1
@@ -40,7 +41,7 @@ Ventas table:
 - region	nvarchar	100	1
 - estado_entrega	nvarchar	100	1
 
-Clientes table:
+Clientes:
 - Columna Tipo Tamaño PermiteNulos
 - id_cliente	smallint	2	0
 - nombre	nvarchar	100	1
@@ -50,7 +51,7 @@ Clientes table:
 - edad	tinyint	1	1
 - genero	nvarchar	100	1
 
-Productos table:
+Productos:
 - Columna Tipo Tamaño PermiteNulos
 - id_producto	tinyint	1	0
 - nombre_producto	nvarchar	100	1
@@ -59,7 +60,7 @@ Productos table:
 - costo	float	8	1
 - fecha_lanzamiento	date	3	1
 
-Empleados table:
+Empleados:
 - Columna Tipo Tamaño PermiteNulos
 - id_vendedor	tinyint	1	0
 - nombre	nvarchar	100	1
@@ -69,7 +70,7 @@ Empleados table:
 - fecha_contratacion	date	3	1
 - salario	float	8	1
 
-Departamentos table:
+Departamentos:
 - Columna Tipo Tamaño PermiteNulos
 - id_departamento	tinyint	1	0
 - nombre_departamento	nvarchar	100	1
