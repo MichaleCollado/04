@@ -12,6 +12,7 @@ El objetivo es demostrar dominio en:
 - Creación de datasets reproducibles
 - Estructuración profesional de un proyecto de datos
 
+
 🗂 Contenido del Repositorio
 01-SQL-Portafolio/
 - datasets/
@@ -23,6 +24,7 @@ El objetivo es demostrar dominio en:
 - queries-nivel_basico
 - queris-nivel-intermedio
 - queries-nivel-avanzado
+
 
 🗂 Información Tablas
 Ventas table:
@@ -73,6 +75,7 @@ Departamentos table:
 - nombre_departamento	nvarchar	100	1
 - ubicacion	nvarchar	100	1
 
+
 🛠 Habilidades Demostradas
 
 ✔ SQL Avanzado
@@ -94,6 +97,7 @@ Departamentos table:
 - Construcción de KPIs mensuales
 - Métricas móviles
 - Ranking dinámico
+
 
 🟡 NIVEL BÁSICO
 1.	Mostrar todos los registros de la tabla clientes.
@@ -121,6 +125,7 @@ Departamentos table:
 23.	Mostrar los clientes que no tienen edad registrada (edad IS NULL).
 24.	Calcular el total de ventas del producto más vendido.
 25.	Mostrar las 5 ventas de mayor valor total (cantidad * precio_unitario).
+
 
 🟡 NIVEL INTERMEDIO
 1.	Obtener todos los empleados cuyo salario sea mayor al promedio general.
@@ -154,6 +159,7 @@ Departamentos table:
 29.	Calcular el promedio móvil de ventas de los últimos 3 meses.
 30.	Mostrar la diferencia en ventas entre el mes actual y el mes anterior.
 
+
 🟡 NIVEL AVANZADO
 1.	Calcular la variación porcentual de ventas mes a mes por producto.
 2.	Identificar clientes con tres meses consecutivos de crecimiento en compras.
@@ -186,6 +192,7 @@ Departamentos table:
 29.	Calcular el crecimiento relativo del top 10 de clientes.
 30.	Crear un resumen mensual con ventas acumuladas, ranking y porcentaje sobre total.
 
+
 🎯 Propósito del Proyecto
 - Este portafolio fue desarrollado para demostrar experiencia sólida en análisis de datos, SQL avanzado y generación de insights accionables para roles como:
 - Data Analyst
@@ -194,12 +201,10 @@ Departamentos table:
 - Business Analytics / Reporting
 - Data-Driven Operations
 
+
 📬 Contacto
 Michael Paul Collado Morales
-
 📍 Arequipa, Perú
-
 📧 michael.collado@outlook.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/michaelpaulcm
 
