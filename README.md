@@ -1,4 +1,4 @@
-🗂🗂 SQL Portfolio – Análisis y Automatización de Datos
+▶️ SQL Portfolio – Análisis y Automatización de Datos
 Autor: Michael Paul Collado Morales
 
 Este repositorio contiene un conjunto de proyectos y ejercicios avanzados de SQL aplicados a escenarios reales de negocio.
